@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Spell
+comment0.text=\n\ Write\ a\ description\ of\ class\ SpellClass\ here.\n\n\ @author\ Ashwini\ Sarvepalli\n\ @version\ 11/12/2018\n
+comment1.params=h\ g
+comment1.target=Spell(int,\ int)
+comment2.params=
+comment2.target=Spell\ createSpell()
+comment3.params=
+comment3.target=int\ gethealth()
+comment4.params=
+comment4.target=int\ getGain()
+comment5.params=
+comment5.target=void\ printSpellSummary()
+numComments=6
